@@ -1,0 +1,42 @@
+module.exports = [
+  {
+    employee_id: 1,
+    first_name: "John",
+    last_name: "Doe",
+    department: "Sales",
+    salary: "50000.00",
+    hire_date: "2020-01-15T00:00:00.000Z",
+  },
+  {
+    employee_id: 2,
+    first_name: "Jane",
+    last_name: "Smith",
+    department: "Marketing",
+    salary: "60000.00",
+    hire_date: "2019-07-19T23:00:00.000Z",
+  },
+  {
+    employee_id: 3,
+    first_name: "Alice",
+    last_name: "Johnson",
+    department: "Sales",
+    salary: "55000.00",
+    hire_date: "2021-03-10T00:00:00.000Z",
+  },
+  {
+    employee_id: 4,
+    first_name: "Bob",
+    last_name: "Williams",
+    department: "IT",
+    salary: "65000.00",
+    hire_date: "2018-12-05T00:00:00.000Z",
+  },
+  {
+    employee_id: 5,
+    first_name: "Michael",
+    last_name: "Brown",
+    department: "Marketing",
+    salary: "62000.00",
+    hire_date: "2022-02-28T00:00:00.000Z",
+  },
+];
